@@ -27,6 +27,8 @@
 - [Belch](https://github.com/gutchaman)
 - [Barış TÜRE](https://github.com/baristure)
 - [Brian Archibald](https://github.com/BrianArchibald)
+- [Brian Fransis Moniaga](https://github.com/BrianAnakPintar)
+
 
 # C
 
